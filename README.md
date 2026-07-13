@@ -6,7 +6,7 @@ I develop full-stack web applications, working with both frontend and backend.
 I have commercial experience, integrate APIs, implement features, and focus on writing clean, structured, and maintainable code.
 
 ## Tech Stack
-<img width="1816" height="778" alt="Tech stack overview" src="https://github.com/user-attachments/assets/98bccc5a-d3d6-4a89-8e12-f992535807c0" />
+<img width="911" height="803" alt="изображение" src="https://github.com/user-attachments/assets/39f423b9-250a-4df2-9c7e-5458f9215318" />
 
 ## About the Repository
 
